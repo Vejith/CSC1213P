@@ -1,0 +1,19 @@
+Date : 12.03.2025
+Practical Number : 01
+Problem Specification : Printing out the statements.
+
+Implementation : 
+class myfirstjavaprogram
+{
+	public static void main(String[] args)
+{
+System.out.println("my first programme in java");
+System.out.println("hello java developers !!!");
+}
+}	
+
+Output : 
+my first programme in java
+hello java developers !!!
+
+Conclusion : We have understood the program in java to print out any statement.
