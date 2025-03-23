@@ -1,4 +1,4 @@
-class EX06
+class EX07
 {
 	public static void main(String[]args)
 	{
